@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>136540.jpg</filename>
+	<path>C:\Users\user\Desktop\Tutorial\models-master\research\object_detection\images\train\136540.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2364</width>
+		<height>1773</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kencur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>551</xmin>
+			<ymin>526</ymin>
+			<xmax>1718</xmax>
+			<ymax>1259</ymax>
+		</bndbox>
+	</object>
+</annotation>

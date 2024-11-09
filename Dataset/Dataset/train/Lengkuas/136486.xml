@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>136486.jpg</filename>
+	<path>C:\Users\user\Desktop\Tutorial\models-master\research\object_detection\images\train\136486.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2364</width>
+		<height>1773</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lengkuas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>429</ymin>
+			<xmax>2256</xmax>
+			<ymax>1242</ymax>
+		</bndbox>
+	</object>
+</annotation>

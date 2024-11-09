@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>136500.jpg</filename>
+	<path>C:\Users\user\Desktop\Tutorial\models-master\research\object_detection\images\test\136500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2364</width>
+		<height>1773</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lengkuas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>453</ymin>
+			<xmax>2167</xmax>
+			<ymax>1307</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>136539.jpg</filename>
+	<path>C:\Users\user\Desktop\Tutorial\models-master\research\object_detection\images\test\136539.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2364</width>
+		<height>1773</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kencur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>567</xmin>
+			<ymin>521</ymin>
+			<xmax>1767</xmax>
+			<ymax>1250</ymax>
+		</bndbox>
+	</object>
+</annotation>
